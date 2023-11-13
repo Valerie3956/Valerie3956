@@ -7,7 +7,6 @@ Check out my professional portfolio https://valerie3956.netlify.app/
 - 📫 How to reach me: email, linkedIn, through my portfolio!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: As of November 2023 I'm the fastest person to ever complete stage 1 of V-School!
-
 - ![Valerie3956's github stats](https://github-readme-stats.vercel.app/api?username=valerie3956&show_icons=true&theme=dark)
 
 <!--
