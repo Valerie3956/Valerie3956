@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Check out my professional portfolio https://valerie3956.netlify.app/
+
+- 🔭 I’m currently working on adding a backend to my recipe book app
+- 💬 Ask me about how being a physical therapist prepared me for my career in tech
+- 📫 How to reach me: email, linkedIn, through my portfolio!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: As of November 2023 I'm the fastest person to ever complete stage 1 of V-School!
+
 <!--
 **Valerie3956/Valerie3956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
