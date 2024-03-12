@@ -6,7 +6,7 @@ Check out my professional portfolio https://valerie3956.netlify.app/
 - 💬 Ask me about how being a physical therapist prepared me for my career in tech
 - 📫 How to reach me: email, linkedIn, through my portfolio!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: As of November 2023 I'm the fastest person to ever complete stage 1 of V-School!
+- ⚡ Fun fact: As of March 2024 I'm the fastest person to ever complete stage 1 of V-School!
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valerie3956&layout=compact)](https://github.com/valerie3956/github-readme-stats)
